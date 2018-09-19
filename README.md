@@ -16,5 +16,16 @@ u+tab- parāda komandas, kas sākas ar šo burtu
 whoami- parāda lietotāja nosaukumu  
 who - parāda lietotāju  
 history- parāda vēsturi  
+
 history > nosaukums.txt - saglabā vēsturi teksta dokumentā  
 echo $0 - parāda valodas nosaukumu
+nano- papildina saturu
+sh - skripts
+echo - parāda faila saturu
+chmod- maina, ko var darīt ar failu
+cd - ieiet 
+.-parvietojas uz atpakaļu
+.. - pārvietojas uz priekšu
+ctr x - iziet
+man - komandas informācija
+git clone - lejupladē failu

@@ -1,0 +1,28 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  idle &
+    5  git clone https://github.com/ottokrivenko99/RTR105
+    6  cd RTR105
+    7  idle &
+    8  nano text.txt
+    9  ls -l
+   10  cd home/user
+   11  .
+   12  . home
+   13  .home
+   14  cd home/user
+   15  . home/user
+   16  .
+   17  ..
+   18  . RTR105
+   19  . - 
+   20  cd .
+   21  cd /home/user/
+   22  nano text1.txt
+   23  ls -l
+   24  idle &
+   25  cd RTR105
+   26  nano drg_20181031.py
+   27  ls -l
+   28  history > history_20181031.txt
